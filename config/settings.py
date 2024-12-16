@@ -1,0 +1,4 @@
+BOT_TOKEN = ""
+OPENAI_API_KEY = ""
+PREFIX = "?"
+DEFAULT_TIMEZONE = "Asia/Ho_Chi_Minh"
